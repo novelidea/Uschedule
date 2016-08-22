@@ -13,7 +13,7 @@ Due to the large amount data that Uschedule needs to use, it's unwise to check a
 Uschedule is an app based on network spiders. Usually, one website needs one particular spider to generate data which brings lots of work to website analysis and coding. Therefore, I welcome programmers all over the world join this program and write network spiders to crawl time-related data from websites. All contributors' GitHub account will be presented in the App in the following way. Database API will be released in the following weeks.
 
 ## How to Join
-Developers can either submit a crawler written in Python or own server url. All data should be in the following formate.
+Developers can either submit a crawler written in Python or a server url. All data should be in the following formate.
 
 ```javascript
 {
